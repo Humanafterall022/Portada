@@ -5,5 +5,5 @@ import styles from './page.module.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export default function Home() {
-  return <>hola mundo</>;
+  return <>hola mundo 2</>;
 }
